@@ -1,0 +1,3 @@
+module.exports=[64433,a=>{a.v({className:"inter_5972bc34-module__OU16Qa__className"})},27572,a=>{"use strict";var b=a.i(7997),c=a.i(64433);let d={className:c.default.className,style:{fontFamily:"'Inter', 'Inter Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable);var e=a.i(39138);function f({children:a}){return(0,b.jsx)("html",{lang:"zh-CN",children:(0,b.jsx)("body",{className:(0,e.cn)(d.className,"bg-gray-50 min-h-screen"),children:a})})}a.s(["default",()=>f,"metadata",0,{title:"ReShare - 微博",description:"Minimal Weibo Client"}],27572)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__cfa1ac48._.js.map

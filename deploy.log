@@ -1,0 +1,19 @@
+
+ ⛅️ wrangler 4.64.0
+───────────────────
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mWarning: Your working directory is a git repo and has uncommitted changes[0m
+
+  To silence this warning, pass in --commit-dirty=true
+
+
+Uploading... (0/36)
+Uploading... (12/36)
+Uploading... (24/36)
+Uploading... (36/36)
+✨ Success! Uploaded 36 files (2.88 sec)
+
+🌎 Deploying...
+✨ Deployment complete! Take a peek over at https://950ec5c7.reshare-client.pages.dev

@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/a617204c4f03e50f.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://picsum.photos/seed/dashu/200","image"]
+:HL["https://picsum.photos/seed/rec1/100","image"]
+:HL["https://picsum.photos/seed/rec2/100","image"]
+:HL["https://picsum.photos/seed/rec3/100","image"]
+:HL["https://picsum.photos/seed/tech/200","image"]
+:HL["https://picsum.photos/seed/photo/200","image"]
+0:{"buildId":"KsBtiktJph5TIVQ4e6nS0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
